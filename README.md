@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>API RAILS 5 - Angular 6 + NativeScript (Android / iOS) with API RAILS 5</strong>
+  <strong>APP NATIVESCRIPT (Android / iOS) - Angular 6 + NativeScript (Android / iOS) with API RAILS 5</strong>
 </h1> 
 
 <p align="center">
