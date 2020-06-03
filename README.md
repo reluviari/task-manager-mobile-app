@@ -8,7 +8,7 @@
 
 ## 📌 Link to Course
 
-You can visit the course by clicking this link: [Access App](https://www.udemy.com/course/rails-angular-nativescript-apis-e-apicativos-android-ios-e-web/).
+You can visit the course by clicking this link: [Access Course](https://www.udemy.com/course/rails-angular-nativescript-apis-e-apicativos-android-ios-e-web/).
 
 ## 🙋‍♂️ Author
 
